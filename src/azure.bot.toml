@@ -1,0 +1,15 @@
+[settings]
+agent_id = "azure00029"
+name = "[RLB] Azure 00029"
+loadout_file = "loadout.toml"
+run_command = "python bot.py" 
+run_command_linux = "python3 bot.py"
+logo_file = "azure_logo.png"
+
+[details]
+developer = "Azurus41"
+description = "Advanced aerial controller using optimal control theory for minimum-time interception with nose-targeting. Implements CasADI-inspired direct collocation and NTUD-style 1D kinematic planning."
+fun_fact = "First Azure version with mathematically optimal aerial trajectories."
+source_link = ""
+language = "python"
+tags = ["1v1", "teamplay", "aerials", "optimal-control"]
